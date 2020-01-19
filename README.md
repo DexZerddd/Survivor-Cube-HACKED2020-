@@ -1,6 +1,9 @@
 # Survivor-Cube-HACKED2020-
 Hack Ed 2020
 
+Team member #1: Ruimin Chen
+Team member #2: Siru Chen
+
 Accessories:
 	*Arduino Mega Board (2560)
 	*3.5" TFT LCD HD Color Screen Module for Mega 2560 Board.
