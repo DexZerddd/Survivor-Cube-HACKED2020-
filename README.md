@@ -1,6 +1,14 @@
 # Survivor-Cube-HACKED2020-
 Hack Ed 2020
 
+Include File:
+	*SurvivorCube.cpp
+	*README
+	*Makefile
+	
+Running Instruction:
+	Ensure Hacked!.cpp and Makefile are in the same direction. Ensure TFT display screen is porperly connect to arduino. Upload code to arduino using command "make upload". After done, the game may begin.
+	
 Accessories:
 	*Arduino Mega Board (2560)
 	*3.5" TFT LCD HD Color Screen Module for Mega 2560 Board.
@@ -18,6 +26,6 @@ Description:
 	This is an arduino base program use C++.
 	It will present a little game, user should use a joystick to contral the position of a red square to avoid attack from white Triangles. Meanwhile, user need to collect randomly generate character. Collect 10 characters for achieve a collection of HACKED2020 is the purpose of this game.
 
-Important Notice:
+Important Note:
 	To move Red Square up, push joystick to the pin side.Similarly, by pushing joystick away from the pin side will move Red Square down.
 	To collect Character, push joystick to the left. As each character is collacted, the corresponing character in the title will turned from white textcolor to red.
